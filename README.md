@@ -4,6 +4,6 @@
 
 ## US Claim Services
 
-- [composer install]().
-- [php artisan key:generate]().
-- [php artisan optimize:clear]().
+- [composer install].
+- [php artisan key:generate].
+- [php artisan optimize:clear].
