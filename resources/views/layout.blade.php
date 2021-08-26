@@ -308,9 +308,9 @@
     <script src="{{ asset('sulfur/asset/js/count-to.js') }}"></script>
     <script src="{{ asset('sulfur/asset/js/styleswitcher.js') }}"></script>
     
-    <script src="{{ asset('sulfur/asset/js/map.js') }}"></script>
-    <script src="http://maps.googleapis.com/maps/api/js?sensor=false"></script>
-    <script src="{{ asset('sulfur/asset/js/script.js') }}"></script> 
+    {{-- <script src="{{ asset('sulfur/asset/js/map.js') }}"></script> --}}
+    {{-- <script src="http://maps.googleapis.com/maps/api/js?&sensor=false"></script> --}}
+    {{-- <script src="{{ asset('sulfur/asset/js/script.js') }}"></script> --}}
 
     @yield('js')
 

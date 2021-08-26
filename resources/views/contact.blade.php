@@ -63,9 +63,9 @@
 	</div>
 	</div>
 	</section>
-
 	<div class="google-map">
-	<div id="map" data-position-latitude="48.858370" data-position-longitude="2.294481"></div>
+		<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2901.6517033977398!2d102.27154655836036!3d2.2527155229352465!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31d1e5a53f2b278f%3A0xa5f298ea12823bf!2sBBU%20Apartment!5e0!3m2!1sen!2smy!4v1629953083230!5m2!1sen!2smy" width="100%" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+		{{-- <div id="map" data-position-latitude="48.858370" data-position-longitude="2.294481"></div> --}}
 	</div>
 
 @endsection
