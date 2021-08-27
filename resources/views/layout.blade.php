@@ -171,8 +171,8 @@
                     <div class="footer-address">
                         <ul>
                             <li class="footer-contact"><i class="fa fa-home"></i>123, Second Street name, Address</li>
-                            <li class="footer-contact"><i class="fa fa-envelope"></i><a href="javascript:void(0);">info@domain.com</a></li>
-                            <li class="footer-contact"><i class="fa fa-phone"></i>+1 (123) 456-7890</li>
+                            <li class="footer-contact"><i class="fa fa-envelope"></i><a href="javascript:void(0);">asma@usservice.com</a></li>
+                            <li class="footer-contact"><i class="fa fa-phone"></i>+1 954-562-9109</li>
                             <li class="footer-contact"><i class="fa fa-globe"></i><a href="javascript:void(0);" target="_blank">www.domain.com</a></li>
                         </ul>
                     </div>
@@ -286,8 +286,8 @@
                     <div class="copyright-menu pull-right">
                         <ul>
                             <li><a href="javascript:void(0);" class="active">Home</a></li>
-                            <li><a href="javascript:void(0);">Sample Site</a></li>
-                            <li><a href="javascript:void(0);">getbootstrap.com</a></li>
+                            <li><a href="javascript:void(0);">link 1</a></li>
+                            <li><a href="javascript:void(0);">link 2</a></li>
                         </ul>
                     </div>
                 </div>
